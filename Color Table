@@ -1,0 +1,6 @@
+# Color table file C:/Users/andra/OneDrive/Projects/SlicerTesting2022/20220109-ColorLegend/Segmentation-label_ColorTable.ctbl
+# 4 values
+0 Background 0 0 0 0
+1 artery 216 101 79 255
+2 bone 241 214 145 255
+3 connective_tissue 111 184 210 255
